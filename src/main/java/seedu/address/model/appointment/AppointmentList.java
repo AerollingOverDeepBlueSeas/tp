@@ -1,4 +1,4 @@
-package seedu.address.appointment;
+package seedu.address.model.appointment;
 
 import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Comparator;
 
 /** Represents a list of appointments. */
 public class AppointmentList {
-    private ArrayList<Appointment> appointments;
+    private final ArrayList<Appointment> appointments;
 
     public AppointmentList() {
         this.appointments = new ArrayList<>();
