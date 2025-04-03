@@ -13,8 +13,7 @@
 
 ## **Acknowledgements**
 
-The layout and design elements are adapted from the User Guide [here]
-(https://ay2223s1-cs2103t-w16-2.github.io/tp/UserGuide)
+The layout and design elements are adapted from the User Guide [here](https://ay2223s1-cs2103t-w16-2.github.io/tp/UserGuide)
 
 --------------------------------------------------------------------------------------------------------------------
 
